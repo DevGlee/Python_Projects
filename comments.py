@@ -6,3 +6,5 @@ print("Bonjour tout le monde ")
 # Celui-ci ne s'affichera pas
 
 # print("print commenté")
+
+#Au revoir
