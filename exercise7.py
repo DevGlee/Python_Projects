@@ -8,7 +8,7 @@ numbers = [
     743, 527
 ]
 
-# your code goes here
+
 for number in numbers:
     if (number % 2 == 0):
         continue
